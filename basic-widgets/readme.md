@@ -4,7 +4,7 @@
     <img src="ss/img1.png" alt="img1" width="150" height="310" style="margin-right:20px">  <img src="ss/img2.png" alt="img2" width="150" height="310"> <img src="ss/img3.png" alt="img3" width="150" height="310">
 </div>
 
-As you know, everything in Flutter is a widget. But how do you know which widget to use when? In this chapter, you’ll explore three categories of basic widgets, which you can use for:
+As you know, everything in Flutter is a widget. But how do you know which widget to use when? In this, we will explore three categories of basic widgets, which we can use for:
 * Structure and navigation
 * Displaying information
 * Positioning widgets
